@@ -25,4 +25,5 @@ while(j < 100) {
     } else {
         console.log(j);
     }
+    j++;
 }
